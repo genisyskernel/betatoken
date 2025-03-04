@@ -1,0 +1,13 @@
+{
+  "name": "Beta",
+  "symbol": "BETA",
+  "image": "https://raw.githubusercontent.com/genisyskernel/betatoken/refs/heads/master/beta_image.png",
+  "description": "Beta Token Devnet",
+  "creator": {
+    "name": "Beta",
+    "site": "https://beta.meme/",
+    "x": "https://x.com/beta_token",
+    "discord": "https://discord.gg/beta_token",
+    "telegram": "https://t.me/beta_token"
+  }
+}
